@@ -8,6 +8,7 @@ public class exercici3
 	}
 
 	public static void printOne() {
-		System.out.println("Hello World"); 
+		System.out.println("Hello World");
 	}
+	
 }
