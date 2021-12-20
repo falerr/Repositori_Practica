@@ -12,8 +12,4 @@ public class exercici3
 		System.out.println("Hello World");
 	}
 
-	public static void printTwo() {
-		printOne();
-		printOne();
-	}
 }
